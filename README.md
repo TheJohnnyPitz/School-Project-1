@@ -1,0 +1,7 @@
+DISCLAIMER!!!
+
+PLEASE NOTE THAT THIS WEBSITE IS NOT FULLY FUNCTIONAL AND WAS ONLY DESIGNED FOR EDUCATIONAL PURPOSES. THE FORMS AND LOGINS DO NOT ACTUALLY WORK BUT YOUR INFO MAY BE DISPLAYED IN THE ADDRESS BAR IF YOU ENTER IT INTO THE FORM. THE EMAIL ADDRESS IS ALSO NOT REAL SO DO NOT EXPECT A RESPONSE. 
+
+This is the first project I did for my intro to web development class in school. It was designed as a site for gamers to be able to read gaming reviews, view screenshots and videos of games, and buy the games they want. I designed the banner myself at the top of the site and I believe that I designed a couple of the logos, but I do not remember making them (most likely with Adobe Fireworks CS5 which we had access to in school). 
+
+As mentioned above the forms and email links do not actually work so please don't expect them to. There are some design flaws with this project and I would do things differently if I made it again. The first change I would make is to not use a blue/yellow color scheme as there are people with blue/yellow color blindness. The background is also a bit overwhelming. The navigation bar is also not formatted properly as it wraps around to a new line. This project was mainly a learning experience and I could certainly fix it in the future if I wanted to take that route. 
