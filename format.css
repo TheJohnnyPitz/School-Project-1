@@ -1,0 +1,65 @@
+body      {font: 90% arial, verdana, helvetica, sans-serif;
+	   background: #ccc url(images/background.gif);
+	   margin: 2; color: black}
+
+#header   {background: #036 url(images/banner.gif);
+	   height: 50px}
+
+h1        {position: absolute;
+           height: 0;
+           overflow: hidden}
+
+h2, h3        {text-align: center; color: red}
+h4 {text-align: left; color: black}
+
+#links1   {position: relative; left: 0px; top: 0px; display: inline; margin-left: 20px;}
+
+#links1 a {color: blue;
+	   text-decoration: none;
+	   margin: 0 8em 0 0;
+           background: #ccff00;
+	   padding: 0em 1.1em}
+
+#links2   {position: absolute;
+           margin-left: 20px;
+           top: 60px
+           left: 0;
+           width: 140px;
+           color: blue}
+
+#links2 a {color: blue;
+	   text-decoration: none;
+	   display: block;
+	   background: #ccff00;
+	   margin: 1em 1em 1em 1em;
+	   padding: 0 0.5em}
+
+#links1 a:visited  {color: #736F6E}
+#links1 a:hover    {background: #82CAFA}
+#links2 a:visited  {color: #736F6E}
+#links2 a:hover    {background: #82CAFA}
+
+#content {background: white;
+         padding: 20px 20px 16em 40px;
+         xpadding: 1px 1em 2em 1em;
+         border-left: 180px solid #0000cc;}
+
+#container {position: relative;
+            width: 800px;
+            border-width: 0;
+            margin: auto;}
+
+ul {text-align: left}
+ul a:visited {color: #736F6E}
+ol {text-align: left}
+
+img {width: 100px; height: 100px; border: 1px solid #000; float: right}
+#pic1 {position: relative; left: 0px; top: 0px}
+#pic2 {position: relative; left: 105px; top: 180px}
+#pic3 {position: relative; left: 210px; top: 320px}
+
+#games img {width: 75px; height: 75px; float: left;}
+#slideshow img {position: absolute; width: 500px; height: 200px}
+address {text-align: center}
+
+
